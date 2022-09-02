@@ -1,0 +1,15 @@
+C:\Users\Lilith\Desktop\StringExercise\bin\Debug\net6.0\StringExercise.exe
+C:\Users\Lilith\Desktop\StringExercise\bin\Debug\net6.0\StringExercise.deps.json
+C:\Users\Lilith\Desktop\StringExercise\bin\Debug\net6.0\StringExercise.runtimeconfig.json
+C:\Users\Lilith\Desktop\StringExercise\bin\Debug\net6.0\StringExercise.dll
+C:\Users\Lilith\Desktop\StringExercise\bin\Debug\net6.0\StringExercise.pdb
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.csproj.AssemblyReference.cache
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.AssemblyInfoInputs.cache
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.AssemblyInfo.cs
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.csproj.CoreCompileInputs.cache
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.dll
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\refint\StringExercise.dll
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.pdb
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\StringExercise.genruntimeconfig.cache
+C:\Users\Lilith\Desktop\StringExercise\obj\Debug\net6.0\ref\StringExercise.dll
