@@ -1,0 +1,15 @@
+C:\Users\Lilith\Desktop\C# Course\FileExercise\bin\Debug\net6.0\FileExercise.exe
+C:\Users\Lilith\Desktop\C# Course\FileExercise\bin\Debug\net6.0\FileExercise.deps.json
+C:\Users\Lilith\Desktop\C# Course\FileExercise\bin\Debug\net6.0\FileExercise.runtimeconfig.json
+C:\Users\Lilith\Desktop\C# Course\FileExercise\bin\Debug\net6.0\FileExercise.dll
+C:\Users\Lilith\Desktop\C# Course\FileExercise\bin\Debug\net6.0\FileExercise.pdb
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.csproj.AssemblyReference.cache
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.AssemblyInfoInputs.cache
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.AssemblyInfo.cs
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.csproj.CoreCompileInputs.cache
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.dll
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\refint\FileExercise.dll
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.pdb
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\FileExercise.genruntimeconfig.cache
+C:\Users\Lilith\Desktop\C# Course\FileExercise\obj\Debug\net6.0\ref\FileExercise.dll
